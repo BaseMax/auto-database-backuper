@@ -1,5 +1,7 @@
 # 📦 auto-database-backuper
 
+> A simple, production-ready tool that automatically creates compressed backups of MySQL/MariaDB, PostgreSQL, and MongoDB databases. It supports multiple databases, custom hosts and ports, .env configuration, Docker usage, and automatic backup rotation—making it ideal for servers, VPS setups, cron jobs, and CI pipelines.
+
 A lightweight, production-ready, multi-database backup system with support for:
 
 * **MySQL / MariaDB**
