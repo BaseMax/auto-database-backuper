@@ -1,0 +1,10 @@
+services:
+  backup:
+    image: alpine:latest
+    container_name: auto-backuper
+    volumes:
+      - ./:/app
+      - ./backups:/var/backups/db
+    working_dir: /app
+    env_file: .env
+    entrypoint: ["sh", "backup.sh"]
