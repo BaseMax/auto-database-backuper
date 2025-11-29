@@ -19,15 +19,15 @@ Designed for servers, VPS, Docker containers, and automated CI backup workflows.
 
 ## 🚀 Features
 
-✔ Backup multiple MySQL/MariaDB databases
-✔ Backup multiple PostgreSQL databases
-✔ Backup multiple MongoDB databases
-✔ Configurable through `.env`
-✔ Supports custom host, port, username/password
-✔ Fully automatic rotation (keep N recent backups)
-✔ Clean logs & error handling
-✔ Works standalone or inside Docker
-✔ Simple structure & easy customization
+- ✔ Backup multiple MySQL/MariaDB databases
+- ✔ Backup multiple PostgreSQL databases
+- ✔ Backup multiple MongoDB databases
+- ✔ Configurable through `.env`
+- ✔ Supports custom host, port, username/password
+- ✔ Fully automatic rotation (keep N recent backups)
+- ✔ Clean logs & error handling
+- ✔ Works standalone or inside Docker
+- ✔ Simple structure & easy customization
 
 ---
 
